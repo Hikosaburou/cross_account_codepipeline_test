@@ -1,0 +1,2 @@
+# cross_account_codepipeline_test
+CodeCommitだけ別アカウントにあるときのCodePipeline構築
